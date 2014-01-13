@@ -7,7 +7,7 @@ public class Main {
 		
 		System.out.println("Hello, I am");
 		
-		System.out.println("Test 2");
+		System.out.println("!Test 2");
 		
 		System.out.println("Test 3");
 		
