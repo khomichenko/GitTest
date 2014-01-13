@@ -1,6 +1,9 @@
 package start;
 
 public class A {
+	
+	private A a1;
+	
 	private String name;
 
 	private Integer id;
