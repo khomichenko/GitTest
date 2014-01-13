@@ -3,7 +3,7 @@ package start;
 public class MainI {
 
 	public static void main(String[] args) {
-		System.out.println("S Main.main()");
+		System.out.println("Main.main()");
 		
 		System.out.println("Hello, I am");
 		
