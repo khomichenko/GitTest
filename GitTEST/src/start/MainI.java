@@ -1,6 +1,6 @@
 package start;
 
-public class Main {
+public class MainI {
 
 	public static void main(String[] args) {
 		System.out.println("S Main.main()");
